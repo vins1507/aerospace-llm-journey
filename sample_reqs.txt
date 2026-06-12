@@ -1,0 +1,5 @@
+REQ-001: The system shall display altitude data with appropriate accuracy.
+REQ-002: The software should handle errors as required.
+REQ-003: The flight management function shall compute the trajectory and display it and log it and notify the crew when deviations occur and store the data for later analysis as needed by maintenance personnel and other stakeholders.
+REQ-004: Temperature monitoring etc. will be performed periodically.
+REQ-005: The system shall transmit position reports every 5 seconds with a tolerance of ±0.5 seconds.
